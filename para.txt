@@ -1,0 +1,2 @@
+StationID          Latitude NSTD BYear EYear PRCPNN
+60490              36.70    3 1981  2025      25
